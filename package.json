@@ -1,0 +1,14 @@
+{
+  "name": "romanzupa-store",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "firebase": "^10.12.0",
+    "next": "14",
+    "react": "18",
+    "react-dom": "18"
+  }
+}
